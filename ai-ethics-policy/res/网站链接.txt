@@ -1,0 +1,14 @@
+	发布单位	标题	链接
+国内	清华大学图书馆	GenAI专题资源导航	https://tsinghua.cn.libguides.com/GenAI
+	深圳大学图书馆	“重生”之图书馆帮我用生成式AI	https://mp.weixin.qq.com/s?__biz=MzIyOTAyMDUxOQ==&mid=2653492764&idx=1&sn=2ebe1c8f81fcc2609acb5dfb2395ebc6&chksm=f287ec33ad808527ac5c5cfe7aeb5f0d3ccb34043b37d7b37da483ecff29f089aa24620d00eb&scene=27
+	香港大学图书馆	人工智能素养（AI Literacy）	https://libguides.lib.hku.hk/AI-literacy
+	香港中文大学图书馆	使用人工智能工具的指南和最佳实践（Guidelines and Best Practices for Using AI Tools）	https://libguides.lib.cuhk.edu.hk/AI_Education_and_Research
+国外	麻省理工学院图书馆	引用人工智能工具（Citing AI tools）	https://libguides.mit.edu/cite-AI-tools
+	爱丁堡大学图书馆	在学术工作中使用生成式人工智能工具（Using Generative AI Tools in Academic Work）	https://edinburgh-uk.libguides.com/gen-AI
+	宾夕法尼亚大学图书馆	人工智能工具和最佳实践（AI Tools and Best Practices）	https://guides.library.upenn.edu/ai
+	不列颠哥伦比亚大学图书馆	生成式人工智能和ChatGPT（Generative AI and ChatGPT）	https://guides.library.ubc.ca/GenAI/learning-research
+	多伦多大学图书馆	生成式人工智能工具和版权注意事项（Generative AI tools and Copyright Considerations）	https://library.utoronto.ca/policy/generative-ai-copyright
+	哈佛大学图书馆	用于研究和学术的人工智能（Artificial Intelligence for Research and Scholarship）	https://guides.library.harvard.edu/c.php?g=1330621&p=9798082
+	加州大学伯克利分校图书馆	人工智能工具（AI tools）	https://guides.lib.berkeley.edu/c.php?g=1377385&p=10186434
+	剑桥大学图书馆	（CJBS指南:CJBS操作:生成式人工智能导论）CJBS Guide: CJBS Operations: An Introduction to Generative AI	https://libguides.cam.ac.uk/cjbsguide/OperationsGenAI
+	斯坦福大学图书馆	图书馆人工智能试验（Library AI Trials）	https://sul-dlss-labs.github.io/ai-projects/

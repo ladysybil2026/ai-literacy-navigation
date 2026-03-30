@@ -1,0 +1,67 @@
+# 系统文件
+AppData/
+Local Settings/
+My Documents/
+Cookies/
+Recent/
+SendTo/
+Templates/
+NetHood/
+PrintHood/
+「开始」菜单/
+Application Data/
+
+# 编辑器和IDE文件
+.cursor/
+.codex/
+.config/
+.ai_completion/
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# 构建文件
+build/
+dist/
+out/
+
+# 依赖文件
+node_modules/
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
+
+# 测试文件
+coverage/
+.nyc_output/
+
+# 其他
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.iso

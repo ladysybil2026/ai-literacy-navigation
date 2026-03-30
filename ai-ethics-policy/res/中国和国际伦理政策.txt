@@ -1,0 +1,8 @@
+中国：
+《生成式人工智能服务管理暂行办法》 https://www.gov.cn/zhengce/zhengceku/202307/content_6891752.htm
+《新一代人工智能伦理规范》https://www.most.gov.cn/kjbgz/202109/t20210926_177063.html?ref=salesforce-research.63.html
+《关于加强科技伦理治理的意见》https://www.gov.cn/zhengce/202212/content_6688372.htm
+《科技伦理审查办法（试行）》https://www.gov.cn/gongbao/2023/issue_10826/202311/content_6915814.html
+国际：
+欧盟《人工智能法案》(AI Act) https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/eu-ai-act-guide-chinese-version.pdf
+联合国《人工智能伦理问题建议书》https://unesdoc.unesco.org/ark:/48223/pf0000380455_chi
